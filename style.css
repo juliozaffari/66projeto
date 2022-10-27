@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: darksalmon;
+
+}
+h1{
+    color: aqua;
+    text-decoration: underline;
+}
+title{
+    color: blue;
+    text-decoration: overline;
+    text-decoration-color: black;
+}
